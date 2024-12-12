@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Swethanarayanan13
 - 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me in MAIL
 
 <!---
